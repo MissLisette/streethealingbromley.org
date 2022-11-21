@@ -13,7 +13,7 @@ id: find_church
 
 
 #### [River Church](http://www.river-church.co.uk/)
-* The Link, Midfield Way, Orpington, BR5 2QL
+* Midfield Primary School, Grovelands Road, Orpington BR5 3EG
 * Meeting Sunday 11:00am
 * <http://www.river-church.co.uk/>
         
