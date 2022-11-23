@@ -4,9 +4,7 @@ id: find_us
 ---
 
 ### Find Us
-If you would like us to pray for you, please visit us on the streets as detailed below or email your request to: [info@streethealingbromley.org](mailto:info@streethealing.org)**
-
-
+If you would like us to pray for you, please visit us on the streets as detailed below or email your request to: [info@streethealingbromley.org](mailto:info@streethealing.org)
 
 **The Crays**
 
